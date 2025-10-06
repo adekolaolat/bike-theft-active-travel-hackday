@@ -4,7 +4,7 @@ At the [Active Travel Hackday](https://events.doesliverpool.com/events/a0c91251-
 
 I joined a small team looking at data pulled from [data.police.uk API](https://data.police.uk/) on reported bike thefts by Merseyside Police.
 
-<img src="images/merseyside_theft.png" alt="Bike Theft Hotspots" width="800" height="400">
+<img src="images/merseyside_theft.png" alt="Bike Theft Hotspots">
 
 ## The Hotspots: Where Bikes Disappear Most
 
