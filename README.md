@@ -19,15 +19,15 @@ The data revealed clear hotspots. The most frequent locations were:
 
 These are the places where many of us feel safe locking our bikes for a short time. Yet convenience often comes at a cost. The easier a spot is to access, the easier it is for thieves to strike.
 
-<img src="images/hotspots.png" alt="Bike Theft Hotspots" width="800" height="300"> 
+<img src="images/hotspots.png" alt="Bike Theft Hotspots"> 
 
-<img src="images/places.png" alt="Bike Theft Hotspots" width="800" height="300">
+<img src="images/places.png" alt="Bike Theft Hotspots">
 
 ## Why May Tops the Charts
 
 When we looked at monthly trends, May recorded the highest number of thefts.
 
-<img src="images/monthly.png" alt="Bike Theft Hotspots" width="500" height="200">
+<img src="images/monthly.png" alt="Bike Theft Hotspots">
 
 Why May? Several factors might explain it.
 
@@ -53,14 +53,14 @@ According to the data:
 
 This means that most people who lose their bikes never get them back. It is not necessarily because the police do not care, but rather because bike thefts are difficult to solve and rarely prioritised.
 
-<img src="images/outcome.png" alt="Bike Theft Hotspots" width="500" height="300">
+<img src="images/outcome.png" alt="Bike Theft Hotspots">
 
 ## Not a Police Priority
 
 Bike theft accounted for just 0.73% of all reported crimes to the Merseyside police in 2024.
 That figure is small compared to other crime categories. With limited resources, it is understandable that investigations into bike thefts often do not lead to arrests or recoveries.
 
-<img src="images/least_priority.png" alt="Bike Theft Hotspots" width="500" height="300">
+<img src="images/least_priority.png" alt="Bike Theft Hotspots">
 
 
 ## What Cyclists Can Do
