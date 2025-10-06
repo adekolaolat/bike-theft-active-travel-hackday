@@ -1,8 +1,8 @@
 # Active Travel Hackday - Bike theft in Merseyside
 
-At the [Active Travel Hackday](https://events.doesliverpool.com/events/a0c91251-7a5b-4420-b011-94a44fb42a60) hosted by Adrian McEwen at DOES Liverpool, a few of us decided to dig into something close to every cyclist’s heart, **bike theft**. Liverpool might be building momentum around cycling and active travel, but what happens when the bikes go missing?
+At the [Active Travel Hackday](https://events.doesliverpool.com/events/a0c91251-7a5b-4420-b011-94a44fb42a60) hosted by Adrian McEwen at [DoES Liverpool](https://doesliverpool.com/), a few of us decided to dig into what every cyclist dreads: **bike theft**. Liverpool might be building momentum around cycling and active travel, but what happens when the bikes go missing?
 
-I joined a small team looking at data pulled from [data.police.uk API](https://data.police.uk/) on reported bike thefts by Merseyside Police.
+I joined a small team looking at data pulled from [data.police.uk API](https://data.police.uk/) on reported bike thefts by Merseyside Police, and the results were quite an eye-opener.
 
 <img src="images/merseyside_theft.png" alt="Bike Theft Hotspots">
 
